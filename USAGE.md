@@ -2,21 +2,21 @@
 
 ## 🪧 • Commands
 ``` bash
-phantom --command -option
+'phantom --command -option'
 ```
 
 ## ☘️ • Help
 ``` bash
-help
+'help'
 ```
 
 ## 🎯 • Start
 ``` bash
-python Phantom.py
+'python Phantom.py'
 ```
 
 ## 🚫 • Stop
 ``` bash
-CTRL + C
-exit
+'CTRL + C'
+'exit'
 ```
