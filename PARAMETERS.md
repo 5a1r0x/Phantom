@@ -2,7 +2,7 @@
 
 ## 🧩 • Options
 ``` bash
-## Password
+# Password
 password -r RANDOM
 username -r RANDOM
 
