@@ -15,8 +15,8 @@
 python Phantom.py
 ```
 
-## 🎯 • Stop
+## 🚫 • Stop
 ``` bash
-CTRL + C
-exit
+'CTRL + C'
+'exit'
 ```
