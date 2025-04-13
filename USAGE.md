@@ -2,7 +2,7 @@
 
 ## 🪧 • Commands
 ``` bash
-'phantom --command -option'
+'phantom --command -parameter'
 ```
 
 ## ☘️ • Help
