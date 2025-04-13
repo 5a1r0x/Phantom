@@ -1,4 +1,4 @@
-# <p align='center'>Phantom | Usage Guide</p>
+# <p align='center'>Phantom | Usage</p>
 
 ## 🪧 • Commands
 ``` bash
