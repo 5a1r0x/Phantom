@@ -4,7 +4,7 @@
 <a href="https://t.me/SyroxModsOfficial" align='center'>Telegram</a> • <a href="https://youtube.com/@SyroxModsOfficial" align="center">YouTube</a> • <a href="https://tiktok.com/@syroxmodsofficial">TikTok</a>
 </p>
 <p align='center'>
-| <strong>Version</strong> | 1.0 | <strong>Download</strong> | 1 | <strong>Size</strong> | 22.9 KB | <strong>Language</strong> | Python |
+| <strong>Version</strong> | 1.0 | <strong>Download</strong> | 1 | <strong>Size</strong> | 58.8 KB | <strong>Language</strong> | Python |
 </p>
 
 ---
