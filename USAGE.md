@@ -2,12 +2,12 @@
 
 ## 🪧 • Commands
 ``` bash
-Type: 'phantom --command -option'
+'phantom --command -option'
 ```
 
 ## ☘️ • Help
 ``` bash
-Type 'help' for support
+'help'
 ```
 
 ## 🎯 • Start
