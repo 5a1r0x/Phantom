@@ -1,4 +1,4 @@
-<h1 align='center'>👻 Phantom</h1>
+<h1 align='center'>🎭 Phantom</h1>
 
 <p align='center'>
 <a href="https://t.me/SyroxModsOfficial" align='center'>Telegram</a> • <a href="https://youtube.com/@SyroxModsOfficial" align="center">YouTube</a> • <a href="https://tiktok.com/@syroxmodsofficial">TikTok</a>
