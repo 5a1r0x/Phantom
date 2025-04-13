@@ -36,10 +36,10 @@ exit
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/5a1r0x/CheckIt.git
-cd CheckIt
+git clone https://github.com/5a1r0x/Phantom.git
+cd Phantom
 pip install -r requirements.txt
-python CheckIt.py
+python Phantom.py
 ```
 ## 📢 Disclaimer
 - Phantom was only made for educational purposes
